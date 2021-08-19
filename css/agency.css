@@ -1017,8 +1017,8 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .blogtext{
   font-size: 18px;
-  color: black;
-  font-weight: 100
+  color: rgb(80, 80, 80);
+  font-weight: 370;
 }
 
 .blogreadmore{
